@@ -1,0 +1,33 @@
+.banner {
+  background-image: url(https://scontent.fctt1-1.fna.fbcdn.net/v/t39.30808-6/393420314_637589611902547_7465743191193063526_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=783fdb&_nc_ohc=nswKhyo164oAX_qbr0p&_nc_ht=scontent.fctt1-1.fna&oh=00_AfBCosKu92Vm2R5YXUTc6zIdBVRfeqB5jZxd2I2pP389Zg&oe=656E8352);                            
+  background-position:top;
+  display: flex;
+  object-fit: cover;
+  max-width: 1750px;
+  height: 600px;
+  background-size:cover;
+}
+
+.banner h1 {
+  color: rgb(255, 255, 255); 
+  font-size: 50px; 
+}
+
+.banner h2 {
+  color: rgb(255, 255, 255);
+  font-size: 30px;
+  font-weight: lighter;
+  
+}
+
+.banner2 {
+  background-color: rgba(170, 218, 255, 0.205);
+  height: 550px;
+  width: 1260px;
+}
+.bique {
+  margin-top: 50px;
+  object-fit: cover;
+  width: 700px;
+  height: 400px;
+}
